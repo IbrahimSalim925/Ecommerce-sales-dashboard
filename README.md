@@ -19,7 +19,7 @@ This project presents an interactive Excel dashboard designed to explore e-comme
 
 ## Project File
 
-Open `Ecommerce Dashboard - Copy.xlsx` to explore the dashboard and its available filters.
+Open `Ecommerce_Sales_Dashboard.xlsx` to explore the dashboard and its available filters.
 
 ## Purpose
 
